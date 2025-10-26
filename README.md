@@ -67,18 +67,6 @@ Before running this project, you'll need:
    - Simply open `index.html` in your web browser
    - Visit `http://localhost:8000` in your browser
 
-## 📁 Project Structure
-
-```
-weather-app/
-│
-├── index.html          # Main HTML file
-├── style.css           # CSS styles
-├── script.js           # JavaScript functionality
-├── README.md           # Project documentation
-└── screenshots/        # Screenshots folder (optional)
-```
-
 ## 🎯 Usage
 
 1. Open the application in your browser
@@ -95,17 +83,12 @@ This project uses the [OpenWeatherMap Current Weather Data API](https://openweat
 https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric
 ```
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Aamir**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
+- LinkedIn: [Aamir Neyazi](https://linkedin.com/in/aamirneyazi)
 
 ## 🙏 Acknowledgments
 
@@ -116,8 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For any questions or suggestions, feel free to reach out:
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: aamirneyazi93@gmail.com
 
 ---
 
