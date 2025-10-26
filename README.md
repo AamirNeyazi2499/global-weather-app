@@ -23,14 +23,6 @@ A beautiful and responsive weather application built with HTML, CSS, and JavaScr
 
 [Live Demo](https://current-weather-view.netlify.app/)
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](screenshots/desktop.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile.png)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Structure
